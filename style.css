@@ -1,0 +1,44 @@
+body{
+    background-image: url(fendadobiquini.jpg);
+    background-size: cover;
+}
+
+button{
+    margin-right: 20px;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 15px;
+    
+}
+
+    .botao-bala{
+    background-color: rgb(175, 96, 44);
+}
+
+    #botao-cha{
+    background-color: rgb(117, 84, 13);
+}
+
+    #botao-tempero{
+    background-color: orangered;
+}
+
+    div{
+    background-color: yellow;
+    width: 500px;
+}
+
+    div h3:first-child{
+        color: black;
+    }
+
+    div h3:last-child{
+        color: black;
+    }
+    
+    div h3:nth-child(2){
+        color: black;
+    }
+
